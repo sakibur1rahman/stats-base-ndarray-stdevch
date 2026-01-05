@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-24)
+## Unreleased (2026-01-05)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`e80d912`](https://github.com/stdlib-js/stdlib/commit/e80d91298650049b369091edf4af6db7718cfa5d) - **bench:** fix descriptions _(by Athan Reines)_
 -   [`f04a31d`](https://github.com/stdlib-js/stdlib/commit/f04a31de84e7201d3cb54cc39a19eee84f49b407) - **feat:** add `stats/base/ndarray/stdevch` [(#9327)](https://github.com/stdlib-js/stdlib/pull/9327) _(by Pratik, Athan Reines)_
 
 </details>
